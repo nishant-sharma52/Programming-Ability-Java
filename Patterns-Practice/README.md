@@ -12,3 +12,6 @@ This folder contains all pattern problems solved in Java.
 - Butterfly Pattern
 - Diamond Pattern
 - Floyd’s Triangle
+- Rhombus pattern
+- Palindromic pattern
+
